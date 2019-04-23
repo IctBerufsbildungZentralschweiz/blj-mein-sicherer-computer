@@ -1,21 +1,21 @@
-# Aufgabe 1
+# Aufgaben
 
-## Ein starkes Passwort erstellen
+## Aufgabe 1: Starkes Passwort erstellen
 
 ### Aufgabenstellung 
 
 Ändere das Passwort für die Windows-Ameldung in deiner VM. Erstelle dazu ein sogenannt _starkes_ Passwort. 
 
-#### Dokumentation
+### Dokumentation ergänzen
 
-Notiere das Passwort in deiner Dokumentation und erkläre dazu kurz, auf was du bei der Erstellung des starken Passwortes geachtet hast.
+Notiere das Passwort in deiner Dokumentation und erkläre kurz, auf was du bei der Erstellung des starken Passwortes geachtet hast.
 
-# Aufgabe 2
+## Aufgabe 2: Passwort-Manager einrichten 
 
-##  Einen Passwort-Manager einrichten 
+### Aufgabenstellung 
 
 Installiere einen Passwort-Manager deiner Wahl in deiner VM und nehme ihn gleich in Betrieb, indem du das neue Passwort für die Windows-Anmeldung (Aufgabe 1) dort ablegst. 
 
-#### Dokumentation 
+### Dokumentation ergänzen
 
-Erstelle in deiner Dokumentation einen neuen Abschnitt mit einem Bildschirmprint des von dir installierten Passwort-Managers. Notiere das Master-Passwort und zähle auch die Gründe auf, weshalb du gerade diesen Passwort-Manager ausgewählt hast. 
+Ergänze deine Dokumentation mit einem Bildschirmprint des von dir installierten Passwort-Managers. Notiere das Master-Passwort und zähle auch die Gründe auf, weshalb du gerade diesen Passwort-Manager ausgewählt hast. 
