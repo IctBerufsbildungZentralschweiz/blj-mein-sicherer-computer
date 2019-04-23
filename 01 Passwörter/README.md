@@ -41,33 +41,41 @@ Wie in vielen anderen Lebensbereichen kann man auch beim Schutz der eigenen Date
 
 ## Einen Passwort-Manager nutzen
 
-Langsam beginnen dich Passwörter zu nerven? Du fragst dich, wie du  dir all die langen, komplizierten, einzigartigen und schwer zu erratenden Passwörter merken sollst? Und zu allem Übel solltest du sie auch noch alle paar Monate ändern!? Ein Passwort-Manager Software könnte die Lösung sein für dich. Schau dir doch mal das Video vom [Passwort-Manager Test 2019 von CHIP](https://www.chip.de/test/Die-besten-Passwort-Manager-2019_128580641.html) an.
+Langsam beginnen dich Passwörter zu nerven? Du fragst dich, wie du  dir all die langen, komplizierten, einzigartigen und schwer zu erratenden Passwörter merken sollst? Dann könnte eine Passwort-Manager Software die Lösung sein für dich. Schau dir doch mal das folgende Video vom [Passwort-Manager Test 2019 von CHIP](https://www.chip.de/test/Die-besten-Passwort-Manager-2019_128580641.html) an.
 
 - Video: [Passwort-Manager Test](res/passwort-manager-test-chip-2019.mp4)
 
-
-Die Passwort-Sicherheit lässt sich also mit einem Passwort-Manager gezielt steigern. Hier ein paar Vorschläge: 
+Du siehst: die Passwort-Sicherheit lässt sich mit einem Passwort-Manager gezielt steigern. Hier als Empfehlung drei Passwort-Manager, die beim CHIP-Test gut abgeschnitten haben. 
 
 - [Keepass](https://keepass.info/) 
 - [LastPass](https://www.lastpass.com/de)
 - [1Password](https://1password.com/de/) (kostenpflichtig)
 
- Online-Passwort-Dienste, wie LastPass oder 1Password, sind  komfortabel, weil sie die verschlüsselten Passwort-Datenbanken über mehrere Geräte synchronisieren. Wer einem Online-Anbieter nicht vertraut, kann zu lokalen Lösungen wie KeePass greifen, hat dann aber mehr Aufwand, um mehrere Geräte auf dem gleichen Stand zu halten. 
+ ### Dienst oder lokale Software
 
+ Passwort-Manager gibt es in zwei Ausprägungen: 
+ 
+ 1. als Online-Dienst 
+ 2. als lokale Software 
+ 
+ Der Unterschied steckt im Sicherheitskonzept. Bei den Diensten (LastPass, 1Password) wird die Datenbank mit den verschlüsselten Passwörtern auf dem Server des Anbieters gespeichert. Das heisst, es bleibt ein Restrisiko; denn die Server der Passwortdienste könnten gehackt werden oder ein Mitarbeiter manipuliert Daten. 
+ 
+ Bei den lokalen Passwortmanagern, zu denen das kostenlose KeePass zählt, liegt die Datenbank mit den veschlüsselten Passwörtern nur lokal vor und so hast du die komplette Kontrolle darüber. Der Nachteil ist, dass du mehr Aufwand hast, um mehrere Geräte auf dem gleichen Stand zu halten.
+ 
 ![Bild](res/post-it-password.jpg)
 
 _Abbildung: Passwortaufbewahrung, wie man es nicht machen sollte..._
 
 ## Wusstest du schon, dass... 
 
-...**81%** aller Datenpannen auf gestohlene oder schwache Passwörter zurückzuführen sind?
+... **81%** aller Datenpannen auf gestohlene oder schwache Passwörter zurückzuführen sind?
 
-...ein Programm **2 Minuten** braucht, um ein 5-stelliges Passwort aus Kleinbuchstaben zu knacken. 
+... ein Programm **2 Minuten** braucht, um ein 5-stelliges Passwort aus Kleinbuchstaben zu knacken. 
 
-...es ca. **984 Jahre** dauert, bis ein Programm ein 10-stelliges Passwort mit Zahlen, Gross- u. Kleinbuchstaben sowie Sonderzeichen geknackt hat?
+... es ca. **984 Jahre** dauert, bis ein Programm ein 10-stelliges Passwort mit Zahlen, Gross- u. Kleinbuchstaben sowie Sonderzeichen geknackt hat?
 
-...kriminelle Hacker ein gefundenes Passwort **auf allen möglichen Accounts** ausprobieren, die sie zu einer Person finden?
+... kriminelle Hacker ein gefundenes Passwort **auf allen möglichen Accounts** ausprobieren, die sie zu einer Person finden?
 
-...kriminelle Hacker immer zuerst die vom Hersteller voreingestellten **Standardpasswörter** (Admin, root,...) ausprobieren, wenn sie auf Geräte (z.B. Laptop, Handy, Router) zugreifen wollen? 
+... kriminelle Hacker immer zuerst die vom Hersteller voreingestellten **Standardpasswörter** (Admin, root,...) ausprobieren, wenn sie auf Geräte (z.B. Laptop, Handy, Router) zugreifen wollen? 
 
-...der 1. Donnerstag im Mai der **Welt-Passworttag** ist? An diesem Tag wird daran erinnert, starke Passwörter und, wenn möglich, Zwei-Faktor-Authentifizierung zu benutzen.
+... der 1. Donnerstag im Mai der **Welt-Passworttag** ist? An diesem Tag wird daran erinnert, starke Passwörter und, wenn möglich, Zwei-Faktor-Authentifizierung zu benutzen.
