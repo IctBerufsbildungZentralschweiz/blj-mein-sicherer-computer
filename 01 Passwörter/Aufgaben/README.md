@@ -1,4 +1,4 @@
-# Aufgaben: Passwörter
+# Passwörter: Aufgaben
 
 ![Animiertes Bild](res/enter-pwd.webp)
 
@@ -12,7 +12,7 @@
 
 Notiere das Passwort in deiner Dokumentation und erkläre kurz, auf was du bei der Erstellung des starken Passwortes geachtet hast.
 
-## Aufgabe 2 
+## Aufgabe 2
 
 ### Passwort-Manager einrichten 
 
@@ -21,3 +21,16 @@ Installiere einen Passwort-Manager deiner Wahl in deiner VM und nehme ihn gleich
 #### Dokumentation ergänzen
 
 Ergänze deine Dokumentation mit einem Bildschirmprint des von dir installierten Passwort-Managers. Notiere das Master-Passwort und zähle auch die Gründe auf, weshalb du gerade diesen Passwort-Manager ausgewählt hast. 
+
+## Aufgabe 3
+
+### Zwei-Faktor-Authentisierung
+
+Recherchiere im Internet, was mit "Zwei-Faktor-Authentisierung (2FA), oft auch als Zwei-Faktor-Authentifizierung bezeichnet, gemeint ist.
+
+#### Dokumentation ergänzen 
+
+Erkläre mit eigenen Worten, was "Zwei-Faktor-Authentisierung" ist und wie sie funktioniert. 
+
+Wo in deinem Alltag verwendest du bereits 2FA? 
+
