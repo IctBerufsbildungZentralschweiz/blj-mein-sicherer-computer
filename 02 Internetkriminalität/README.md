@@ -21,14 +21,14 @@ Kriminelle Hacker wie Farid Essebar schaffen es immer wieder, in IT-Systeme von 
 
 Die Auswirkungen eines Hackerangriffs können für ein Unternehmen fatal und sogar existenzbedrohend sein: 
 
-- Kosten für Wiederherstellung der Daten
+- Kosten für Wiederherstellung der Daten und Reparatur des Schadens
 - zusätzliche Personalkosten (Überstunden, Beizug externer Spezialisten)
 - Verzögerungen und Lieferschwierigkeiten 
-- Schadenersatzforderungen von betroffenen Kunden
-- Image der Firma leidet (schlechte Schlagzeilen in der Presse)
+- hohe Schadenersatzforderungen von betroffenen Kunden
+- Image der Firma (schlechte Schlagzeilen in der Presse)
 - Vertrauensverlust (bei Kunden, Lieferanten, Mitarbeitern)
 
-Hackerangriffe sind eine sehr ernste Bedrohung für Unternehmen auf der ganzen Welt, wie der folgende Artikel in der Computerwoche beweist: [Top 15 Hacker-Angriffe auf Unternehmen](https://www.computerwoche.de/a/die-groessten-cyberangriffe-auf-unternehmen).
+Hackerangriffe sind also eine sehr ernste Bedrohung für Unternehmen auf der ganzen Welt. Dies zeigt auch der folgende, erschreckende Bericht in der Computerwoche: [Top 15 Hacker-Angriffe auf Unternehmen](https://www.computerwoche.de/a/die-groessten-cyberangriffe-auf-unternehmen).
 
 ## Datensicherheit
 
