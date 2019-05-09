@@ -8,7 +8,7 @@ Quelle: [computerlexikon.com](https://www.computerlexikon.com/was-ist-virenscann
 ## Malware
 
 Als Schadprogramm respektive Malware bezeichnet man Computerprogramme, die unerwünschte und/oder schädliche Funktionen ausführen. Malware ist damit ein Sammelbegriff für Programme, die speziell dazu entwickelt wurden, deinem Computer oder deinen Daten Schaden zuzufügen. Es gibt zahlreiche Unterarten von Malware - zum Beispiel: 
--  Viren 
+- Viren 
 - Trojaner 
 - Würmer 
 - Spyware
@@ -23,7 +23,6 @@ In privaten Haushalten und kleinen Unternehmen gehören Angriffe durch Viren, W�
 
 [comment]:https://www.tecchannel.de/a/computerviren-grundlagen,401215,3
 
-
 Viren kommen getarnt in einem Programm oder in einem Makro-fähigen Dokument (z.B. Word-Datei) daher, das von irgendwoher stammen kann, z.B. von einem USB-Stick, einer CD oder als Download aus dem Internet. Sobald du das virenverseuchte Programm/Dokument startest respektive öffnest, wird der Virus aktiv. Er nistet sich dann so auf deinem Rechner in, dass er bei jedem PC-Start automatisch aktiv wird. 
 
 Entscheidend für die Virenabwehr ist es deshalb, das Einnisten des Virus im System zu verhindern. Solange der Virus nicht gestartet ist, kann er auch keinen Schaden anrichten. 
@@ -36,13 +35,9 @@ Du kannst Hackern leicht einen Strich durch die Rechnung machen, indem du die fo
 2. Öffne keine Anhänge in E-Mails von unbekannten Personen (du solltest aber auch bei bekannten Personen misstrauisch sein, denn deren Rechner könnte verseucht sein, und: bei angehängten EXE-Dateien geboten ist in jedem Fall Vorsicht geboten!)
 3. Halte dein Betriebssystem und die auf deinem PC installierte Software inklusive Sicherheits-Software stets aktuell (vergiss auch nicht, die Browser Plugins regelmässig zu aktualisieren, insbesondere Java und Flash sind häufig Ziel von Angriffen).   
 
-### Antiviren Software 
+### Antivirensoftware 
 
-Du solltest ausserdem auf deinem Rechner eine Antiviren Software installieruen. Und genau das wirst du nun tun -> Aufgaben 
+Heutzutage ist [Ransomware](https://de.wikipedia.org/wiki/Ransomware) eine der grössten Bedrohungen für Unternehmen. Gegen diese Bedrohung hilft Antivirensoftware leider nicht. Deshalb sollte ein Unternehmen sich nicht alleine auf eine Antivirensoftware verlassen, sondern sich zusätzlich mit tiefergehenden Sicherheitslösungen schützen. Damit sind Antivirenprogramme heute "nur" noch ein Bestandteil in einem ganzen Paket von Endpoint-Security-Lösungen, als solches aber immer noch unverzichtbar, da sie bekannte Malware aller Art erkennen und filtern. 
 
-
-# todo
-
-unterschied virus,trojaner, wurm: https://www.pcwelt.de/ratgeber/So-kommen-Viren-und-Wuermer-auf-den-PC-5757291.html 
-
-?? ?
+Dazu ein vertiefender Artikel in der Computerwoche: 
+[Warum Unternehmen weiter Antiviren-Software brauchen](https://www.computerwoche.de/a/warum-unternehmen-weiter-antiviren-software-brauchen,3544856)
