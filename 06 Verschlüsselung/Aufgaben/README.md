@@ -29,7 +29,7 @@ VeraCrypt bietet die Möglichkeit, versteckte Volumes anzulegen. Erkläre - schr
 
 ### Gruppenarbeit: E-Mails verschlüsseln - Wie geht das? 
 
-Diese Aufgabe löst ihr bitte gemeinsam in einer 2er oder 3er-Gruppe. Recherchiert im Internet, wie man eine E-Mail verschlüsseln kann, damit sie von keiner Drittperson mitgelesen werden können, sondern eben nur vom Empfänger, für den das E-Mail bestimmt ist. **Ziel ist es, dass ihr ein verschlüsseltes Mail senden und empfangen können.
+Diese Aufgabe löst ihr bitte gemeinsam in einer 2er oder 3er-Gruppe. Recherchiert im Internet, wie man eine E-Mail verschlüsselt verschickt, damit sie von keiner Drittperson mitgelesen werden kann, sondern eben nur vom Empfänger, für den das E-Mail bestimmt ist. **Ziel ist es, dass ihr ein verschlüsseltes Mail senden und empfangen könnt.**
 
 #### Dokumentation 
 
