@@ -2,12 +2,12 @@
 
 IT-Experten beantworten die Frage, wie gut die Unternehmen gegen einen Cyberangriff gesichert sind, gerne so: _"Es gibt zwei Arten von Unternehmen: Die einen sind gehackt worden. Die anderen wissen es nur noch nicht."_
 
-Der Ausspruch stammt eigentlich vom früheren FBI-Direktor James Comey. Seine Worte sind nach wie vor aktuell.
+Der Ausspruch stammt vom früheren FBI-Direktor James Comey. Seine Worte sind nach wie vor aktuell.
 
 
 ## Hackerangriffe
 
-Internetkriminalität und Hacking sind (leider) ein sehr gutes Geschäft. Ein Beispiel: 
+Internetkriminalität und Hacking sind (leider) ein sehr gutes Geschäft. Ein Beispiel:
 
 > Die «Bangkok Post» schreibt in ihrer Print-Ausgabe, dass Essebar von der Schweiz darum gesucht werde, weil er 2011 in ein Schweizer Internetbanking-System eingedrungen sei und insgesamt einen Schaden von mehr als 4 Milliarden US-Dollar angerichtet habe.
 
@@ -19,11 +19,11 @@ Kriminelle Hacker wie Farid Essebar schaffen es immer wieder, in IT-Systeme von 
 
 ### Folgen eines Hackerangriffs
 
-Die Auswirkungen eines Hackerangriffs können für ein Unternehmen fatal und sogar existenzbedrohend sein: 
+Die Auswirkungen eines Hackerangriffs können für ein Unternehmen fatal und sogar existenzbedrohend sein:
 
 - Kosten für Wiederherstellung der Daten und Reparatur des Schadens
 - zusätzliche Personalkosten (Überstunden, Beizug externer Spezialisten)
-- Verzögerungen und Lieferschwierigkeiten 
+- Verzögerungen und Lieferschwierigkeiten
 - hohe Schadenersatzforderungen von betroffenen Kunden
 - Image der Firma (schlechte Schlagzeilen in der Presse)
 - Vertrauensverlust (bei Kunden, Lieferanten, Mitarbeitern)
@@ -45,9 +45,9 @@ Weitere wichtigte Massnahmen sind zum Beispiel:
 - Schulung der Mitarbeiter (sensibilisieren)
 - Zutrittskontrollen
 - Verschlüsselung der Daten
-- regelmässig Betriebssystem und Software aktualisieren (Sicherheitslücken schliessen) 
+- regelmässig Betriebssystem und Software aktualisieren (Sicherheitslücken schliessen)
 - Antiviren Software installieren
-- Firewalls einsetzen 
-- Backups erstellen 
+- Firewalls einsetzen
+- Backups erstellen
 
 Es ist die Aufgabe eines jeden Unternehmens, für eine höchstmögliche Datensicherheit zu sorgen.

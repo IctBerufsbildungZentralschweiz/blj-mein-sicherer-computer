@@ -4,18 +4,17 @@ Dieses Ausbildungsmodul wurde erstellt für das Basislehrjahr der ICT-Berufsbild
 
 ![Bild](res/betrueger.jpg)
 
-_Abbildung: Klassischer Internet-Betrüger ;)_
+Abbildung: Klassischer Internet-Betrüger ;)
 
+## Einleitung
 
-## Einleitung 
-
- Du wirst dich in den nächsten Stunden und Tagen mit einem wichtigen Thema beschäftigt: **Sicherheit am Computerarbeitsplatz**. Unter anderem wirst du lernen, warum du komplexe Passwörter verwenden solltest, wie man Emails verschlüsselt oder wie du deine Festplatte sauber aufräumen kannst. 
+ Du wirst dich in den nächsten Stunden und Tagen mit einem wichtigen Thema beschäftigt: **Sicherheit am Computerarbeitsplatz**. Unter anderem wirst du lernen, warum du komplexe Passwörter verwenden solltest, wie man Emails verschlüsselt oder wie du deine Festplatte sauber aufräumen kannst.
 
 ## Auftrag
 
-### Dokumentation erstellen 
+### Dokumentation erstellen
 
-Erstelle eine Dokumentation deiner Arbeit. Ein paar Sätze zu jeder Aufgabe reichen. Das Ziel der Dokumentation ist es, dass du von den Aufgaben maximal profitieren kannst und ein paar spannende neue Sachen kennenlernst, die du nicht nur im Geschäft, sondern vielleicht auch privat brauchen kannst. 
+Erstelle eine Dokumentation deiner Arbeit. Ein paar Sätze zu jeder Aufgabe reichen. Das Ziel der Dokumentation ist es, dass du von den Aufgaben maximal profitieren kannst und ein paar spannende neue Sachen kennenlernst, die du nicht nur im Geschäft, sondern vielleicht auch privat brauchen kannst.
 
 ### Mit einer Virtuellen Maschine (VM) arbeiten
 
@@ -23,7 +22,7 @@ Für einige der Aufgabenstellungen benötigst du Software. Damit du diese Softwa
 
 Eine Kostenlose Windows-Kopie solltest du über die Berufsfachschule erhalten, siehe [Anleitung Download Windows 10 für Lernende](https://beruf.lu.ch/-/media/Beruf/Dokumente/schulen_berufsbildungszentren/wirtschaft_informatik_technik/ICT/Software_LE/A_Download_Windows10_Lernende_V2a.pdf?la=de-CH). 
 
-## Hinweise 
+## Hinweise
 
 Alle Aufgabenstellungen sollten in Einzelarbeit und mit Mithilfe deiner Lieblingssuchmaschine lösbar sein. Falls du aber einmal irgendwo alleine nicht weiterkommst, dann bitte deine Kollegen oder deinen Berufsbildner um Hilfe.
 
