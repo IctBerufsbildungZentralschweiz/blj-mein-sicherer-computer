@@ -25,11 +25,3 @@ Das Löschen nicht mehr benötigter Dateien geht schnell und unkompliziert mit e
 ![Logo CCleaner](res/logo-ccleaner.jpg)
 
 <https://www.ccleaner.com/>
-
-## SequoiaView
-
-_SequoiaView_ stellt den Inhalt deiner Festplatte grafisch dar und ordnet die Daten nach ihrer Grösse in farbigen Rechtecken an. Gelb umrandete Rechtecke stehen für Ordner, rot umrandete für Dateien. Zur besseren Übersicht versieht _SequoiaView_ die Dateitypen mit verschiedenen Farben. Alle dargestellten Elemente können geöffnet, aber nicht bearbeitet werden.
-
-![Screen Sequoia View](res/sequoia-view.jpg)
-
-<https://www.win.tue.nl/sequoiaview/>
