@@ -12,7 +12,7 @@ Entschlüssele den folgenden Text:
 
 [comment]:CAESARVERSCHLUESSELUNGISTNICHTSICHER
 
-Schicke den entschlüsselten Text per E-Mail eurem Basislehrjahr-Coach.
+Schicke den entschlüsselten Text per E-Mail deinem Basislehrjahr-Coach, damit er ihn kontrollieren kann.
 
 ## Aufgabe 2
 
@@ -21,7 +21,7 @@ Schicke den entschlüsselten Text per E-Mail eurem Basislehrjahr-Coach.
 Um private Dateien sicher vor unberechtigtem Zugriff zu schützen, können sie in einem Container gespeichert werden, der mit VeraCrypt verschlüsselt wird. Installiere VeraCrypt auf deiner VM, erstelle dann einen VeraCrypt-Container auf dem Desktop und speichere dort einige Dateien hinein. Wähle  dazu ein sicheres Passwort.
 
 Als Unterstützung zur Lösung dieser Aufgabe, kannst du dir [dieses Video](https://youtu.be/jPRkPwM2uvo?t=86)
- anschauen. Download VeraCrypt [hier](https://www.veracrypt.fr/en/Downloads.html).  
+ anschauen. VeraCrypt kannst du [hier](https://www.veracrypt.fr/en/Downloads.html) herunterladen.  
 
 ### Versteckte VeraCrypt-Volumes
 
@@ -31,10 +31,14 @@ VeraCrypt bietet die Möglichkeit, versteckte Volumes anzulegen. Erkläre schrif
 
 ### Gruppenarbeit: E-Mails verschlüsseln
 
-Diese Aufgabe löst ihr gemeinsam in einer 2er oder in einer 3er-Gruppe.
+Diese Aufgabe löst ihr am besten gemeinsam in einer 2er oder in einer 3er-Gruppe.
 
-Recherchiert im Internet, wie man eine E-Mail verschlüsselt verschickt, damit sie von keiner Drittperson mitgelesen werden kann, sondern nur vom Empfänger, für den das E-Mail bestimmt ist. **Ziel ist es, dass ihr euch gegenseitig verschlüsselte E-Mails schicken könnt.**
+Recherchiert im Internet, wie man eine E-Mail verschlüsselt verschicken kann, damit sie von keiner Drittperson mitgelesen werden kann, sondern nur vom Empfänger, für den das E-Mail bestimmt ist. **Das Ziel ist es, dass ihr euch gegenseitig verschlüsselte E-Mails schicken könnt.**
 
-#### Dokumentation
+#### Benutzeranleitung
 
-Wenn ihr herausgefunden habt, wie das Verschlüssen von E-Mails funktioniert, erstellt ihr eine Benutzeranleitung (HowTo), in welcher Schritt für Schritt erklärt wird, wie verschlüsselte E-Mails erstellt, verschickt und empfangen werden können. Diese Benutzeranleitung gebt ihr eurem Basislehrjahr-Coach ab. **Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.**
+Wenn ihr herausgefunden habt, wie das Verschlüsseln von E-Mails funktioniert, erstellt ihr eine Benutzeranleitung (HowTo), in welcher Schritt für Schritt erklärt wird, wie verschlüsselte E-Mails erstellt, verschickt und empfangen werden können. Diese Benutzeranleitung gebt ihr eurem Basislehrjahr-Coach ab.
+
+![Bild](res/usermanual.jpg)
+
+ **Das Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.**
