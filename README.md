@@ -12,7 +12,7 @@ _Abbildung: Klassischer Internet-Betrüger ;)_
 
 ## Auftrag
 
-Es gibt insgesamt 8 Kapitel zu unterschiedlichen Themen: 
+Es gibt insgesamt 9 Kapitel zu unterschiedlichen Themen: 
 
 1. Passwörter
 2. Internetkriminalität
@@ -22,8 +22,9 @@ Es gibt insgesamt 8 Kapitel zu unterschiedlichen Themen:
 6. Verschlüsselung
 7. Backup
 8. Aufräumen
+9. Virtualisierung
 
-Jedes Kapitel besteht aus einem kurzen Theorie-Teil, den du durchlesen sollst sowie aus Aufgaben, die du lösen musst. Die Aufgaben findest du im entsprechenden Unterordner.
+Jedes Kapitel besteht aus einem kurzen Theorie-Teil, den du durchlesen sollst sowie aus Aufgaben, die du lösen musst. Die Aufgaben findest du bei jedem Kapitel im entsprechenden Unterordner.
 
 ### Dokumentation erstellen
 
