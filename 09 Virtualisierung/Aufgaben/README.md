@@ -12,8 +12,8 @@ Schaue dir die beiden Videos an:
 
 Videos:
 
-- [Theorie-Video](res/Sandboxie_Theorie.mp4)
-- [Praxis-Video](res/Sandboxie_Praxis.mp4)
+- [Theorie-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41_eBooks-und-Videotrainig/Videos-diverse/Sandboxie_Theorie.mp4)
+- [Praxis-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41_eBooks-und-Videotrainig/Videos-diverse/Sandboxie_Praxis.mp4)
 
 Installiere jetzt Sandboxie in deiner VM, spiele ein bisschen rum und probiere mal eine Anwendung in Sandboxie laufen zu lassen.
 
