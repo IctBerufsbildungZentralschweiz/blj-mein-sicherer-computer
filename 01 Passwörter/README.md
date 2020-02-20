@@ -18,7 +18,7 @@ Passwörter wie "Hund", "Sommer", "Montag" oder "Schatz" wären beim ersten [Wö
 
 Wenn du deine Daten schützen willst, benötigst du starke Passwörter, die mindestens 10 Zeichen lang sind und Zahlen, Gross- und Kleinbuchstaben sowie Sonderzeichen beinhalten. Aber wie merkt man sich eine lange und komplexe Zeichenfolge? Das folgende Video zeigt einen praktischen Trick, wie starke Passwörter erstellt werden können.  
 
-- Video: [How to create a strong password](how-to-create-a-strong-password.mp4)
+- Video: [How to create a strong password](res/how-to-create-a-strong-password.mp4)
 
 ### Passwortcheck
 
