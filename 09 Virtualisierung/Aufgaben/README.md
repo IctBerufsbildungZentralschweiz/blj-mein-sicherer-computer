@@ -8,9 +8,7 @@
 
 Willst du eine Software testen, der du nicht so recht vertraust, weil sie aus einer unseriösen Quelle zu stammen scheint? Dann ist Sandboxie die Lösung für dich.
 
-Schaue dir die beiden Videos an:  
-
-Videos:
+Schaue dir die beiden folgenden Videos an (um zu den Videos zu gelangen, musst du dich bei der ICT-BZ Cloud <https://cloud.ict-bz-ch> anmelden).
 
 - [Theorie-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41_eBooks-und-Videotrainig/Videos-diverse/Sandboxie_Theorie.mp4)
 - [Praxis-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41_eBooks-und-Videotrainig/Videos-diverse/Sandboxie_Praxis.mp4)
