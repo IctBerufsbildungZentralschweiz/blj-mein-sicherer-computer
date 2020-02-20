@@ -12,19 +12,17 @@ Schaue dir die beiden Videos an:
 
 Videos:
 
-- [Theorie-Video](res/Sandboxie(Theorie).mp4)
-- [Praxis-Video](res/Sandboxie(Praxis).mp4)
+- [Theorie-Video](res/Sandboxie_Theorie.mp4)
+- [Praxis-Video](res/Sandboxie_Praxis.mp4)
 
 Installiere jetzt Sandboxie in deiner VM, spiele ein bisschen rum und probiere mal eine Anwendung in Sandboxie laufen zu lassen.
 
 - Download-Link Sandboxie:
 
-<https://www.sandboxie.com/SandboxieInstall.exe>
+<https://www.sandboxie.com/DownloadSandboxie>
 
 ### Tolle App
 
 [Hier](res/TolleApp.exe) kannst du dir übrigens eine ganz tolle App holen, die du unbedingt ausprobieren musst. Was hältst du von dieser App? Ganz cool, oder?
 
 ![Bild](res/snoopy.jpg)
-
-
