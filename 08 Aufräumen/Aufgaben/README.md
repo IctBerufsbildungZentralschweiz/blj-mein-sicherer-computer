@@ -22,7 +22,7 @@ Hat es geklappt?
 
 ### CCleaner
 
-In deiner VM: Installiere und starte CCLeaner. Download der Gratis-Version [hier](https://www.ccleaner.com/de-de/ccleaner/download). 
+In deiner VM: Installiere und starte CCLeaner. Download der Gratis-Version [hier](https://www.ccleaner.com/de-de/ccleaner/download).
 
 Nach dem Start von CCLeaner Free sollte der Pinsel "Easy Clean" aktiviert sein.
 
@@ -32,9 +32,9 @@ Lasse den "Easy Clean" einmal durchlaufen, indem du den Button _Analyze_ anklick
 
 Nimm dir als nächstes ein bisschen Zeit und schaue dir an, was CCLeaner sonst noch alles zu bieten hat. 
 
-#### Unnötige Registry-Einträge löschen?
+#### Unnötige Registry-Einträge löschen
 
-Achtung. Lösche die "unnötigen" Registry-Einträge **nicht**! Auch wenn CCleaner dein System nicht zerstören wird, werden u.U. wichtige Sachen gelöscht. Die Registry nur bearbeitet werden, wenn du genau weisst, was du tust.
+Achtung. Lösche die "unnötigen" Registry-Einträge **nicht**! Auch wenn CCleaner dein System nicht zerstören wird, werden u.U. wichtige Sachen gelöscht. Es gilt: Bearbeite die Registry nur, wenn du genau weisst, was du tust!
 
 #### Drive Wiper
 
