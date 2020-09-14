@@ -4,7 +4,7 @@
 
 ## Aufgabe
 
- 2017 hat die Schadsoftware «Wanna Cry» auf der ganzen Welt Hunderttausende von Computern lahmgelegt. Lies dazu den Zeitungsartikel: ["WannaCry"-Attacke]() und beantworte die Fragen ***schriftlich*** in deiner Dokumentation:
+ 2017 hat die Schadsoftware «Wanna Cry» auf der ganzen Welt Hunderttausende von Computern lahmgelegt. Lies dazu den Zeitungsartikel: ["WannaCry"-Attacke](https://www.spiegel.de/netzwelt/web/wannacry-attacke-fakten-zum-globalen-cyber-angriff-a-1147523.html) und beantworte die Fragen ***schriftlich*** in deiner Dokumentation:
 
 1. Was hat «Wanna Cry» auf den betroffenen Rechnern bewirkt? Erkläre *in eigenen Worten*.
 2. Was war das Ziel der Angreifer?
