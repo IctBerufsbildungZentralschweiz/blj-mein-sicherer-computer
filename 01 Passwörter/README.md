@@ -4,7 +4,7 @@
 
 ## Die 20 blödesten Passwörter
 
-Das weltweit am meisten verbreitete Passwort ist auch heute - im Jahr [2018](https://www.teamsid.com/100-worst-passwords-top-50/) - noch immer "123456". Dieses Passwort ist in Sekunden zu knacken. Falls du zu den ganz Schlauen gehörst und einfach "password" als Passwort verwendest, dann sei gewarnt: diese vermeintlich clevere und simple Lösung liegt auf Rang zwei der meistgeknackten Passwörter.
+Das weltweit am meisten verbreitete Passwort ist auch heute - im Jahr [2018](https://www.teampassword.com/blog/worst-passwords-of-2018) - noch immer "123456". Dieses Passwort ist in Sekunden zu knacken. Falls du zu den ganz Schlauen gehörst und einfach "password" als Passwort verwendest, dann sei gewarnt: diese vermeintlich clevere und simple Lösung liegt auf Rang zwei der meistgeknackten Passwörter.
 
 Schau dir dazu das folgende Video an. Auch wenn der Titel des Videos nicht so vielversprechend klingt, werden in diesen 2:30 Minuten doch einige interessante Sachen angesprochen.
 
