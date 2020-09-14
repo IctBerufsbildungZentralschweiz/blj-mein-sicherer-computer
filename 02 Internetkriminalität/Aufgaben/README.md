@@ -4,11 +4,11 @@
 
 ## Aufgabe
 
- 2017 hat die Schadsoftware «Wanna Cry» auf der ganzen Welt Hunderttausende von Computern lahmgelegt. Lies dazu den Zeitungsartikel: [Veraltete Systeme sind eine grosse Gefahr](https://www.nzz.ch/wirtschaft/wanna-cry-veraltete-systeme-sind-eine-grosse-gefahr-ld.1293234) und beantworte die Fragen ***schriftlich*** in deiner Dokumentation:
+ 2017 hat die Schadsoftware «Wanna Cry» auf der ganzen Welt Hunderttausende von Computern lahmgelegt. Lies dazu den Zeitungsartikel: ["WannaCry"-Attacke]() und beantworte die Fragen ***schriftlich*** in deiner Dokumentation:
 
 1. Was hat «Wanna Cry» auf den betroffenen Rechnern bewirkt? Erkläre *in eigenen Worten*.
 2. Was war das Ziel der Angreifer?
-3. Russland war von der Attacke am stärksten betroffen. Warum?
+3. Russland sowie Krankenhäuser in Grossbritannien waren von der Attacke am stärksten betroffen. Warum?
 
 ### Warum Firmen ihre Software nicht auf den neusten Stand bringen
 
