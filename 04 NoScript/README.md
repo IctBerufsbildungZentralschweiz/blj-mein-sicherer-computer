@@ -22,7 +22,7 @@ Schau dir das folgende Video (~12 Minuten) an und setze alles, was darin gezeigt
 
 Video: [Das wichtigste AddOn - NoScript für den sicheren Browser](https://www.youtube.com/watch?v=4mmcf2zg32c)
 
-Falls du lieber liest, statt Videos zu schauen, kannst du diesen PCTipp-Artikel lesen: [So gehts - NoScript für Firefox](https://www.pctipp.ch/tipps-tricks/kummerkasten/internet/artikel/so-gehts-noscript-fuer-firefox-89258/?forcedesktop=1&cHash=112222658554c5f38e713129873e7ae2)
+Falls du lieber liest, statt Videos zu schauen, kannst du diesen PCTipp-Artikel lesen: [So gehts - NoScript für Firefox](https://www.pctipp.ch/praxis/firefox/so-gehts-noscript-fuer-firefox-2010096.html)
 
 ## Fazit
 
