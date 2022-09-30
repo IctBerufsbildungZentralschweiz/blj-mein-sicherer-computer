@@ -1,6 +1,6 @@
 # Verschlüsselung: Aufgaben
 
-![Bild](<../06 Verschlüsselung/Aufgaben/res/crypto.gif>)
+![](<../06 Verschlüsselung/Aufgaben/res/crypto.gif>)
 
 ## Aufgabe 1
 
@@ -32,10 +32,14 @@ Diese Aufgabe löst ihr am besten gemeinsam in einer 2er oder in einer 3er-Grupp
 
 Recherchiert im Internet, wie man eine E-Mail verschlüsselt verschicken kann, damit sie von keiner Drittperson mitgelesen werden kann, sondern nur vom Empfänger, für den das E-Mail bestimmt ist. **Das Ziel ist es, dass ihr euch gegenseitig verschlüsselte E-Mails schicken könnt.**
 
-#### Benutzeranleitung
+### Benutzeranleitung
 
 Wenn ihr herausgefunden habt, wie das Verschlüsseln von E-Mails funktioniert, erstellt ihr eine Benutzeranleitung (HowTo), in welcher Schritt für Schritt erklärt wird, wie verschlüsselte E-Mails erstellt, verschickt und empfangen werden können. Diese Benutzeranleitung gebt ihr eurem Basislehrjahr-Coach ab.
 
-![Bild](<../06 Verschlüsselung/Aufgaben/res/usermanual.jpg>)
+{% hint style="warning" %}
+Das Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.
+{% endhint %}
 
-**Das Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.**
+![](<../06 Verschlüsselung/Aufgaben/res/usermanual.jpg>)
+
+****

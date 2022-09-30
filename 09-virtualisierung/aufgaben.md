@@ -34,9 +34,11 @@ Sandboxie ist mittlerweile Open Source und wird vom WuMgr-Schöpfer weiterentwic
 [https://github.com/sandboxie-plus/Sandboxie/releases](https://github.com/sandboxie-plus/Sandboxie/releases)
 {% endhint %}
 
-## Tolle App ausprobieren
+## Aufgabe 2
 
-Schnappe dir folgende App. Die musst du unbedingt ausprobieren. Was hältst du von dieser App? Ganz cool, oder?
+### App testen
+
+Im folgenden Zip-Archiv findest du eine tolle App, die du unbedingt ausprobieren sollst. Lade das Zip-Archiv herunter und entzippe es. Dann starte die App. Was hältst du von dieser App? Ganz cool, oder?
 
 {% file src="../.gitbook/assets/TolleApp.zip" %}
 

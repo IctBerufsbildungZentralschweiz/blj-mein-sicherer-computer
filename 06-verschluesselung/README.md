@@ -6,7 +6,7 @@ Aufgrund einer amerikanischen Behörde, zu welcher fast wöchentlich neue Inform
 
 Ein symmetrisches Kryptosystem ist ein Kryptosystem, bei welchem im Gegensatz zu einem asymmetrischen Kryptosystem beide Teilnehmer denselben Schlüssel verwenden.
 
-![Bild](<../06 Verschlüsselung/res/symmetric\_cryptography.png>)
+![](<../06 Verschlüsselung/res/symmetric\_cryptography.png>)
 
 Der grosse Nachteil symmetrischer Verfahren liegt in der Nutzung ein- und desselben Schlüssels zur Ver- und Entschlüsselung, d. h. neben der verschlüsselten Information muss auch der Schlüssel übermittelt werden. Das Problem beim Einsatz symmetrischer Verfahren ist, dass der Schlüssel über einen sicheren Kanal übertragen werden muss, da die Sicherheit von der Geheimhaltung des Schlüssels abhängt.
 
@@ -18,7 +18,7 @@ Die Caesar-Verschlüsselung ist die älteste und wahrscheinlich berühmteste sym
 
 Bei der Caesar-Verschlüsselung wird jeder Buchstaben durch einen neuen Buchstaben ersetzt, nämlich der Buchstabe, der im Alphabet um drei Stellen versetzt ist. D.h. aus einem "A" wird durch eine Verschiebung um drei Zeichen der Buchstabe "D", aus "B" wird ein "E", aus "C" ein "F" usw. Damit ergibt sich am Ende folgende "Umwandlungstabelle":
 
-![Bild](<../06 Verschlüsselung/res/caesar-schluessel.jpg>)
+![](<../06 Verschlüsselung/res/caesar-schluessel.jpg>)
 
 Möchte man nun z.B. das Wort "kryptowissen" verschlüsseln, muss man lediglich oben in der Tabelle nach jedem Buchstaben schauen und die Buchstaben mit dem darunterstehenden ersetzen. So ist "kryptowissen" verschlüsselt gleich: "nubswrzlvvhq".
 
@@ -26,7 +26,7 @@ Wenn du die Caesar-Verschlüsselung testen möchtest, kannst das online hier tun
 
 #### Achtung
 
-8-ung: Die Caesar-Verschlüsselung ist alles andere als sicher. Sie kann leicht "geknackt" werden. Bei einem hinreichend langen Text kann man nämlich per Häufigkeitsanalyse auf die Verschiebung schliessen. Und selbst falls dies nicht gelingt, bietet immer noch der kleine Schlüsselraum von lediglich 25 eine Angriffsmöglichkeit, bei der man immer auf den richtigen Schlüssel gelangt. Man probiert einfach alle mögliche Verschiebungen aus und hat spätestens nach dem 25. Versuch den Klartext.
+Die Caesar-Verschlüsselung ist alles andere als sicher. Sie kann leicht "geknackt" werden. Bei einem hinreichend langen Text kann man nämlich per Häufigkeitsanalyse auf die Verschiebung schliessen. Und selbst falls dies nicht gelingt, bietet immer noch der kleine Schlüsselraum von lediglich 25 eine Angriffsmöglichkeit, bei der man immer auf den richtigen Schlüssel gelangt. Man probiert einfach alle mögliche Verschiebungen aus und hat spätestens nach dem 25. Versuch den Klartext.
 
 ## Asymmetrische Verschlüsselung
 
@@ -38,7 +38,7 @@ Im Vergleich zu symmetrischen Verschlüsselungsverfahren, sind asymmetrische Ver
 
 Um das Prinzip der asymmetrischen Verschlüsselung zuverstehen zu können, muss man immer im Hinterkopf behalten, dass man es nicht nur mit einem Schlüssel zu tun hat, sondern mit zwei. Der private Schlüssel muss dabei geheim gehalten werden und es muss praktisch unmöglich sein, ihn aus dem öffentlichen Schlüssel zu berechnen. Der öffentliche Schlüssel hingegen muss jedem zugänglich sein, der eine verschlüsselte Nachricht an den Besitzer des privaten Schlüssels senden will.
 
-![Bild](<../06 Verschlüsselung/res/asymmetric\_cryptography.png>)
+![](<../06 Verschlüsselung/res/asymmetric\_cryptography.png>)
 
 Das Ganze beginnt mit der Veröffentlichung des, wie der Name es schon sagt, öffentlichen Schlüssels. Die Veröffentlichung kann z.B. über einen Server erfolgen, oder aber auch per Mail. Man muss ihn nicht auf einem sicheren Weg übertragen, jeder darf in den Besitz des öffentlichen Schlüssels gelangen. Oft ist es sogar erwünscht, dass sich der öffentliche Schlüssel global verteilt, um so sicherzustellen, dass kein anderer öffentlicher Schlüssel unter falschen Namen Verbreitung findet. Mit dem öffentlichen Schlüssel kann nun jeder eine Nachricht für den Besitzer des öffentlichen Schlüssels verschlüsseln. Die verschlüsselte Nachricht kann so nur noch vom Empfänger mit seinem geheimen privaten Schlüssel entschlüsselt werden.
 

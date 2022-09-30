@@ -24,4 +24,7 @@ Das Löschen nicht mehr benötigter Dateien geht schnell und unkompliziert mit e
 
 ![Logo CCleaner](<../08 Aufräumen/res/logo-ccleaner.jpg>)
 
+{% hint style="info" %}
 [https://www.ccleaner.com/](https://www.ccleaner.com/)
+{% endhint %}
+

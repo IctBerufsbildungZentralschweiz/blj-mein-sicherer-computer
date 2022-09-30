@@ -1,8 +1,8 @@
 # Sicher surfen mit Firefox und NoScript
 
-![Bild NoScprit](<../04 NoScript/res/noscript.png>)
-
 _NoScript_ wird von manchen als "das wichtigste Add-on" bezeichnet. Wenn du wissen möchtest, warum das so ist, dann bist du hier richtig.
+
+![NoScprit](<../04 NoScript/res/noscript.png>)
 
 ## Firefox installieren
 
@@ -20,7 +20,9 @@ Allerdings werden so aber auch praktisch alle Webdienstleistungen unfunktional u
 
 Schau dir das folgende Video (\~12 Minuten) an und setze alles, was darin gezeigt wird gleich in deiner VM um.
 
+{% hint style="success" %}
 Video: [Das wichtigste AddOn - NoScript für den sicheren Browser](https://www.youtube.com/watch?v=4mmcf2zg32c)
+{% endhint %}
 
 Falls du lieber liest, statt Videos zu schauen, kannst du diesen PCTipp-Artikel lesen: [So gehts - NoScript für Firefox](https://www.pctipp.ch/praxis/firefox/so-gehts-noscript-fuer-firefox-2010096.html)
 

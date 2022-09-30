@@ -1,6 +1,6 @@
 # Aufräumen: Aufgaben
 
-![Bild](<../08 Aufräumen/Aufgaben/res/cleanup.gif>)
+![](<../08 Aufräumen/Aufgaben/res/cleanup.gif>)
 
 ## Aufgabe 1
 
@@ -62,7 +62,7 @@ Finde mindestens zwei Windows-Werkzeuge zum Entfernen von Daten (nein, nicht die
 
 ### Fragen
 
-Beantworte die beiden Fragen - natürlich wie immer schriftlich. Recherchiere dazu selbständig im Internet. Du kannst dich auch mit deinen BLJ-Kollegen austauschen, um Antworten zu finden.
+Beantworte die beiden Fragen - natürlich wie immer schriftlich in deiner Dokumentation. Recherchiere dazu selbständig im Internet. Du kannst dich auch mit deinen BLJ-Kollegen austauschen, um Antworten zu finden.
 
 * Was passiert beim Formatieren einer Festplatte?
 * Was bringt das Formatieren einer Festplatte?

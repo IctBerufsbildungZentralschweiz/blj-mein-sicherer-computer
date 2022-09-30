@@ -6,7 +6,7 @@ Das Thema "Virtualisierung" hat an einigen Schnittstellen mit Sicherheit zu tun 
 
 Es gibt viele verschiedene Arten der Virtualisierung. Wir schauen 3 wichtige Typen an:
 
-![Bild](<../09 Virtualisierung/res/arten-der-virtualisierung.jpg>)
+![](<../09 Virtualisierung/res/arten-der-virtualisierung.jpg>)
 
 ### Anwendungsvirtualisierung
 

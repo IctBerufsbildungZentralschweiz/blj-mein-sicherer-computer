@@ -6,9 +6,11 @@
 
 ### Wie beim Aufruf einer Webseite ein Computer angegriffen wird
 
-Im unten verlinkten Video wird an einem Beispiel gezeigt, wie beim Aufruf einer Webseite ein Angreifer versucht, deinen Rechner anzugreifen. Schau dir das Video (\~ 5 Minuten) an und beantworte danach die untenstehende Frage.
+Im unten verlinkten Video wird an einem Beispiel gezeigt, wie beim Aufruf einer Webseite ein Angreifer versucht, deinen Rechner anzugreifen. Schau dir das Video (5 Minuten) an und beantworte danach die untenstehende Frage.
 
+{% hint style="info" %}
 Video: [Wie Sie sich infizieren können](https://www.youtube.com/watch?v=Rxyp6cNxN3A)
+{% endhint %}
 
 #### Frage: Wie schützt dich NoScript vor einem Angriff?
 

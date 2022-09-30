@@ -1,6 +1,6 @@
 # Backup: Aufgaben
 
-![Bild](<../07 Backup/Aufgaben/res/nobackupplan.webp>)
+![](<../07 Backup/Aufgaben/res/nobackupplan.webp>)
 
 ## Aufgabe 1
 

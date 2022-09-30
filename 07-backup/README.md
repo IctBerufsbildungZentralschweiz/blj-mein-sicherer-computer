@@ -14,7 +14,7 @@ Deine Daten sind einer Vielzahl von Bedrohungen ausgesetzt und können verloren 
 
 Hast du auf deinem PC Daten, die du nicht verlieren solltest oder möchtest? Dann solltest du unbeding eine Sicherungskopie deiner Daten anlegen, damit du die Daten im Falle eines Verlustes wieder herstellen kannst.
 
-![Bild](<../07 Backup/res/rettungsring.jpg>)
+![](<../07 Backup/res/rettungsring.jpg>)
 
 ## Dateiversionsverlauf von Windows 10
 
