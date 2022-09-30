@@ -1,4 +1,4 @@
-# Mein sicherer Computer
+# 💻 Mein sicherer Computer
 
 Dieses Ausbildungsmodul wurde erstellt für das Basislehrjahr der ICT-Berufsbildung Zentralschweiz.
 

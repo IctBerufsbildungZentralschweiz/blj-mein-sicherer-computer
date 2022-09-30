@@ -1,6 +1,6 @@
 # NoScript: Aufgaben
 
-![Animiertes Bild](<../04 NoScript/Aufgaben/res/matrix.webp>)
+![](<../04 NoScript/Aufgaben/res/matrix.webp>)
 
 ## Aufgabe 1
 

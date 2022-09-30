@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mein sicherer Computer](README.md)
+* [💻 Mein sicherer Computer](README.md)
 * [Passwörter](01-passwoerter/README.md)
   * [Passwörter: Aufgaben](01-passwoerter/aufgaben.md)
 * [Internetkriminalität](02-internetkriminalitaet/README.md)

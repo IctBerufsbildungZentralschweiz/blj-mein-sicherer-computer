@@ -14,7 +14,7 @@ Quelle: [Handelszeitung](https://www.handelszeitung.ch/unternehmen/hacker-4-mill
 
 Kriminelle Hacker wie Farid Essebar schaffen es immer wieder, in IT-Systeme von Unternehmen einzudringen. Und dabei sind nicht nur Grosskonzerne betroffen. Im Gegenteil. Im Jahr 2016 z.B. war laut der Beratungsgesellschaft [PwC](https://www.pwc.de/de/pressemitteilungen/2016/gefahr-von-cyber-angriffen-fuer-familienunternehmen-und-mittelstand-steigt.html) jedes zehnte mittelständische Unternehmen in Deutschland von einem Hackerangriff betroffen. Der wirtschaftliche Schaden betrug dabei im Schnitt 80.000 Euro, in einzelnen Fällen sogar mehr als 500.000 Euro.
 
-![Bild Statistik](<../02 Internetkriminalität/res/statisik-internetkriminalitaet.jpg>)
+![Abbildung: Statistik](<../02 Internetkriminalität/res/statisik-internetkriminalitaet.jpg>)
 
 ### Folgen eines Hackerangriffs
 
