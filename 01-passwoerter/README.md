@@ -6,19 +6,21 @@ Immer wieder gelingt es Hackern, persönliche Accounts zu knacken und auf Kosten
 
 Das weltweit am meisten verbreitete Passwort ist auch heute - im Jahr [2018](https://www.teampassword.com/blog/worst-passwords-of-2018) - noch immer "123456". Dieses Passwort ist in Sekunden zu knacken. Falls du zu den ganz Schlauen gehörst und einfach "password" als Passwort verwendest, dann sei gewarnt: diese vermeintlich clevere und simple Lösung liegt auf Rang zwei der meistgeknackten Passwörter.
 
-Schau dir dazu das folgende Video an. Auch wenn der Titel des Videos nicht so vielversprechend klingt, werden in diesen 2:30 Minuten doch einige interessante Sachen angesprochen.
+Schau dir dazu das folgende Video an. Auch wenn der Titel des Videos nicht so vielversprechend klingt, werden in diesen 2:30 Minuten doch einige **sehr** interessante Sachen angesprochen!
 
-* Video: [Die 20 blödesten Passwörter](../01%20Passw%C3%B6rter/res/die-20-bloedesten-Passwoerter.mp4)
+{% file src="../.gitbook/assets/die-20-bloedesten-Passwoerter.mp4" %}
 
-## Warum du ein starkes Passwort benutzen solltest
+## Warum du ein starkes Passwort nutzen solltest
 
 Passwörter wie "Hund", "Sommer", "Montag" oder "Schatz" wären beim ersten [Wörterbuchangriff](https://de.wikipedia.org/wiki/W%C3%B6rterbuchangriff) leicht geknackt. Wenn du ein solch schwaches Passwort verwendest, hattest du bloss Glück, wenn es bis jetzt noch niemand herausgefunden hat. Aber warte mal: vielleicht liest ja bereits dein Chef oder dein/e Ex-Freund/in deine privaten E-Mails oder die Nachrichten in deinem Facebook Account?
 
 ### Ein starkes Passwort erstellen
 
-Wenn du deine Daten schützen willst, benötigst du starke Passwörter, die mindestens 10 Zeichen lang sind und Zahlen, Gross- und Kleinbuchstaben sowie Sonderzeichen beinhalten. Aber wie merkt man sich eine lange und komplexe Zeichenfolge? Das folgende Video zeigt einen praktischen Trick, wie starke Passwörter erstellt werden können.
+Wenn du deine Daten schützen willst, benötigst du starke Passwörter, die mindestens 10 Zeichen lang sind und Zahlen, Gross- und Kleinbuchstaben sowie Sonderzeichen beinhalten. Aber wie merkt man sich eine lange und komplexe Zeichenfolge?&#x20;
 
-* Video: [How to create a strong password](../01%20Passw%C3%B6rter/res/how-to-create-a-strong-password.mp4)
+Das folgende Video zeigt einen praktischen Trick, wie starke Passwörter erstellt werden können.
+
+{% file src="../.gitbook/assets/how-to-create-a-strong-password.mp4" %}
 
 ### Passwortcheck
 
@@ -43,7 +45,7 @@ Wie in vielen anderen Lebensbereichen kann man auch beim Schutz der eigenen Date
 
 Langsam beginnen dich Passwörter zu nerven? Du fragst dich, wie du dir all die langen, komplizierten, einzigartigen und schwer zu erratenden Passwörter merken sollst? Dann könnte ein Passwort-Manager die Lösung sein für dich. Schau dir doch mal das folgende Video vom [Passwort-Manager Test 2019 von CHIP](https://www.chip.de/test/Die-besten-Passwort-Manager-2019\_128580641.html) an.
 
-* Video: [Passwort-Manager Test](../01%20Passw%C3%B6rter/res/passwort-manager-test-chip-2019.mp4)
+{% file src="../.gitbook/assets/passwort-manager-test-chip-2019 (1).mp4" %}
 
 Du siehst: die Passwort-Sicherheit lässt sich mit einem Passwort-Manager gezielt steigern. Hier als Empfehlung drei Passwort-Manager, die beim CHIP-Test gut abgeschnitten haben:
 
@@ -64,7 +66,7 @@ Bei den lokalen Passwortmanagern, zu denen das kostenlose KeePass zählt, liegt 
 
 ![Bild](<../01 Passwörter/res/post-it-password.jpg>)
 
-_Abbildung: Passwortaufbewahrung, wie man es nicht machen sollte..._
+_Passwortaufbewahrung, wie man es nicht machen sollte..._
 
 ## Wusstest du schon, dass...
 
