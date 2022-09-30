@@ -34,7 +34,7 @@ Erstelle eine Dokumentation deiner Arbeit. Ein paar Sätze zu jeder Aufgabe reic
 
 Für einige der Aufgabenstellungen benötigst du Software. Damit du diese Software nicht auf deinem Rechner installieren musst (weil du sie im Alltag vielleicht nicht benötigst), arbeitest du am besten mit einer virtuellen Windows-Installation. Als virtuelle Umgebung kannst Du wahlweise [VMware Workstation Player](https://www.vmware.com/de/products/workstation-player.html) oder [Virtual Box](https://www.virtualbox.org) verwenden.
 
-Eine Kostenlose Windows-Kopie solltest du über die Berufsfachschule erhalten, siehe [Anleitung Download Windows 10 für Lernende](https://beruf.lu.ch/-/media/Beruf/Dokumente/schulen\_berufsbildungszentren/wirtschaft\_informatik\_technik/ICT/Software\_LE/A\_Download\_Windows10\_Lernende\_V2a.pdf?la=de-CH).
+Eine Kostenlose Windows-Kopie hast du bereits oder solltest du über die Berufsfachschule erhalten.
 
 ## Hinweise
 
