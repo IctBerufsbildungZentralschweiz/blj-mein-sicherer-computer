@@ -19,13 +19,17 @@ Installiere dann Sandboxie in deiner VM, spiele ein bisschen rum und probiere ma
 
 Sandboxie ist mittlerweile Open Source und wird vom WuMgr-Schöpfer weiterentwickelt. Da die Software aufgrund der kostenfreien Verfügbarkeit unsignierte Zertifikate erhält, wird sie von einigen Virenscannern als Malware erkannt - das ist allerdings ein sogenanntes False Positive. Sie können die Software also bedenkenlos nutzen.
 
-#### Download Sandboxie
+#### Download Sandboxie V5.43.5 Windows x64
 
-* [Sandboxie V5.43.5 Windows x64](../09%20Virtualisierung/Aufgaben/res/SandboxieInstall64-v5.43.5.exe)
-* [Sandboxie V5.43.5 Windows x86](../09%20Virtualisierung/Aufgaben/res/SandboxieInstall32-v5.43.5.exe)
-* [oder über die GitHub Webseite des Entwicklers](https://github.com/sandboxie-plus/Sandboxie/releases)
+{% file src="../.gitbook/assets/SandboxieInstall64-v5.43.5.zip" %}
 
-### Tolle App
+**Download Sandboxie von der GitHub Webseite des Entwicklers**
+
+{% hint style="success" %}
+[https://github.com/sandboxie-plus/Sandboxie/releases](https://github.com/sandboxie-plus/Sandboxie/releases)
+{% endhint %}
+
+## Tolle App ausprobieren
 
 Schnappe dir folgende App. Die musst du unbedingt ausprobieren. Was hältst du von dieser App? Ganz cool, oder?
 
