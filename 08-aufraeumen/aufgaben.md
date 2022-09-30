@@ -9,7 +9,7 @@
 Es hat sich herumgesprochen, dass Windows beim Löschen einer Datei nur den Speicherplatz frei gibt, den Inhalt der Datei aber auf dem Laufwerk behält. Das macht es Datenrettungstools einfach, die unsichtbaren Inhalte gelöschter Dateien von der Festplatte zu kratzen. Probiere das jetzt mal aus. Befolge dazu die folgenden Schritte:
 
 1. Hol dir das Tool Recuva und installiere es in deiner VM: [https://www.ccleaner.com/recuva/download](https://www.ccleaner.com/recuva/download)
-2. Lade im Internet ein Bild herunter, z.B. dieses hier: [https://isleofwightzoo.com/assets/images/general/Aysha-2-Isle-of-Wight-Zoo-%C2%A9-Karen-Jane-Dudley.jpg](https://isleofwightzoo.com/assets/images/general/Aysha-2-Isle-of-Wight-Zoo-%C2%A9-Karen-Jane-Dudley.jpg)
+2. Lade im Internet ein Bild herunter, z.B. dieses hier: [https://wildheartanimalsanctuary.org/wp-content/uploads/2021/06/adult-eurasian-lynx-natural-environment-scaled.jpg](https://wildheartanimalsanctuary.org/wp-content/uploads/2021/06/adult-eurasian-lynx-natural-environment-scaled.jpg)
 3. Wechsle in den Ordner, in den du das Bild gespeichert hast und lösche das Bild **unwiderruflich** mit der Tastenkombination {Shift} + {Delete} (Umschalttaste und Delete-Taste gleichzeitig betätigen), so dass das gelöschte Bild nicht im Papierkorb landet.
 4. Das Bild ist nun weg. Ist es wirklich weg? Starte _Recuva_ und versuche mit Hilfe dieses Datenrettungstools das Bild wieder herzustellen.
 
@@ -43,7 +43,7 @@ Der "Drive Wiper" wird die bereits gelöschten, aber immer noch vorhandenen, Dat
 
 Probiere das jetzt mal aus. Befolge dazu die folgenden Schritte:
 
-1. Lade im Internet ein Bild herunter, z.B. dieses hier: [https://isleofwightzoo.com/assets/images/general/Aysha-2-Isle-of-Wight-Zoo-%C2%A9-Karen-Jane-Dudley.jpg](https://isleofwightzoo.com/assets/images/general/Aysha-2-Isle-of-Wight-Zoo-%C2%A9-Karen-Jane-Dudley.jpg)
+1. Lade im Internet ein Bild herunter, z.B. dieses hier: [https://wildheartanimalsanctuary.org/wp-content/uploads/2021/06/adult-eurasian-lynx-natural-environment-scaled.jpg](https://wildheartanimalsanctuary.org/wp-content/uploads/2021/06/adult-eurasian-lynx-natural-environment-scaled.jpg)
 2. Wechsle in den Ordner, in den du das Bild gespeichert hast und lösche das Bild **unwiderruflich** mit der Tastenkombination {Shift} + {Delete} (Umschalttaste und Delete-Taste gleichzeitig betätigen), so dass das gelöschte Bild nicht im Papierkorb landet.
 3. Starte _CCLeaner_ und wechsle zum Tool "Drive Wiper" (siehe Bild oben). Wähle die Option "Free Space Only" und führe den Wipe danach für das Laufwerk C: aus. _Hinweis: Das Löschen einer Datei mit Wipe dauert länger als das "normale" Löschen, da der freie Speicherplatz mehrmals komplett überschrieben wird._
 4. Das Bild ist nun weg. Ist es wirklich weg? Starte _Recuva_ und versuche mit Hilfe dieses Datenrettungstools das Bild wieder herzustellen.
