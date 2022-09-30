@@ -1,6 +1,6 @@
 # Passwörter: Aufgaben
 
-![Animiertes Bild](res/enter-pwd.webp)
+![Animiertes Bild](<../01 Passwörter/Aufgaben/res/enter-pwd.webp>)
 
 ## Aufgabe 1
 
@@ -26,4 +26,4 @@ Ergänze deine Dokumentation mit einem Bildschirmprint des von dir installierten
 
 Recherchiere im Internet, was mit "Zwei-Faktor-Authentisierung (2FA), oft auch als Zwei-Faktor-Authentifizierung bezeichnet, gemeint ist.
 
-Beschreibe dann in deiner Dokumentation mit *eigenen Worten*, was genau "Zwei-Faktor-Authentisierung" ist und wie sie funktioniert. Und: Wo in deinem Alltag verwendest du bereits 2FA?
+Beschreibe dann in deiner Dokumentation mit _eigenen Worten_, was genau "Zwei-Faktor-Authentisierung" ist und wie sie funktioniert. Und: Wo in deinem Alltag verwendest du bereits 2FA?

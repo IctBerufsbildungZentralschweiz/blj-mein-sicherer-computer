@@ -1,6 +1,6 @@
 # Verschlüsselung: Aufgaben
 
-![Bild](res/crypto.gif)
+![Bild](<../06 Verschlüsselung/Aufgaben/res/crypto.gif>)
 
 ## Aufgabe 1
 
@@ -10,18 +10,15 @@ Entschlüssele den folgenden Text:
 
 **GEIWEV ZIVWGLPYIWWIPYRK MWX RMGLX WMGLIV**
 
-[comment]:CAESARVERSCHLUESSELUNGISTNICHTSICHER
-
 Schicke den entschlüsselten Text per E-Mail deinem Basislehrjahr-Coach, damit er ihn kontrollieren kann.
 
 ## Aufgabe 2
 
 ### Dateien mit VeraCrypt verschlüsseln
 
-Um private Dateien sicher vor unberechtigtem Zugriff zu schützen, können sie in einem Container gespeichert werden, der mit VeraCrypt verschlüsselt wird. Installiere VeraCrypt auf deiner VM, erstelle dann einen VeraCrypt-Container auf dem Desktop und speichere dort einige Dateien hinein. Wähle  dazu ein sicheres Passwort.
+Um private Dateien sicher vor unberechtigtem Zugriff zu schützen, können sie in einem Container gespeichert werden, der mit VeraCrypt verschlüsselt wird. Installiere VeraCrypt auf deiner VM, erstelle dann einen VeraCrypt-Container auf dem Desktop und speichere dort einige Dateien hinein. Wähle dazu ein sicheres Passwort.
 
-Als Unterstützung zur Lösung dieser Aufgabe, kannst du dir [dieses Video](https://youtu.be/jPRkPwM2uvo?t=86)
- anschauen. VeraCrypt kannst du [hier](https://www.veracrypt.fr/en/Downloads.html) herunterladen.  
+Als Unterstützung zur Lösung dieser Aufgabe, kannst du dir [dieses Video](https://youtu.be/jPRkPwM2uvo?t=86) anschauen. VeraCrypt kannst du [hier](https://www.veracrypt.fr/en/Downloads.html) herunterladen.
 
 ### Versteckte VeraCrypt-Volumes
 
@@ -39,6 +36,6 @@ Recherchiert im Internet, wie man eine E-Mail verschlüsselt verschicken kann, d
 
 Wenn ihr herausgefunden habt, wie das Verschlüsseln von E-Mails funktioniert, erstellt ihr eine Benutzeranleitung (HowTo), in welcher Schritt für Schritt erklärt wird, wie verschlüsselte E-Mails erstellt, verschickt und empfangen werden können. Diese Benutzeranleitung gebt ihr eurem Basislehrjahr-Coach ab.
 
-![Bild](res/usermanual.jpg)
+![Bild](<../06 Verschlüsselung/Aufgaben/res/usermanual.jpg>)
 
- **Das Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.**
+**Das Ziel ist es, dass der Basislehrjahr-Coach euch mit Hilfe der Anleitung eine verschlüsselte E-Mail schicken kann.**

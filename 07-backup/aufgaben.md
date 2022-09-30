@@ -1,6 +1,6 @@
 # Backup: Aufgaben
 
-![Bild](res/nobackupplan.webp)
+![Bild](<../07 Backup/Aufgaben/res/nobackupplan.webp>)
 
 ## Aufgabe 1
 
@@ -8,12 +8,12 @@
 
 Erstelle in deiner Dokumentation ein neues Kapitel "Backup". Beschreibe dort, wie bei dir zuhause die Daten gesichert werden. Beantworte dabei mindestens die folgenden Fragen:
 
-- Wie/mit welchem Tool werden die Daten gesichert?
-- Wer ist zuständig für die Datensicherung(en)?
-- Welche Daten werden gesichert?  
-- Werden die Daten aller Familienmitglieder gesichert?
-- Welches Speichermedium wird für die Datensicherung verwendet?
-- Wann und wie regelmässig werden die Daten gesichert?
+* Wie/mit welchem Tool werden die Daten gesichert?
+* Wer ist zuständig für die Datensicherung(en)?
+* Welche Daten werden gesichert?
+* Werden die Daten aller Familienmitglieder gesichert?
+* Welches Speichermedium wird für die Datensicherung verwendet?
+* Wann und wie regelmässig werden die Daten gesichert?
 
 Notiere auch, was deiner Meinung nach die Vor- und Nachteile sind, wie ihr bei dir zu Hause die Daten sichert und begründe kurz.
 
@@ -23,9 +23,9 @@ Notiere auch, was deiner Meinung nach die Vor- und Nachteile sind, wie ihr bei d
 
 Richte in deiner Windows 10 VM den Dateiversionsverlauf ein, mit folgenden Vorgaben:
 
-- Die Daten sollen auf eine externe USB-Festplatte gesichert werden.
-- Die Daten sollen alle 6 Stunden gesichert werden.
-- Die Datensicherungen sollen 1 Jahr aufbewahrt werden.
+* Die Daten sollen auf eine externe USB-Festplatte gesichert werden.
+* Die Daten sollen alle 6 Stunden gesichert werden.
+* Die Datensicherungen sollen 1 Jahr aufbewahrt werden.
 
 Starte die Datensicherrung, sobald du den Dateiversionsverlauf konfiguriert hast. Funktoniert alles wie gewünscht?
 
@@ -35,12 +35,9 @@ Der Dateiversionsverlauf sichert nur Dateien, die in Verzeichnissen innerhalb de
 
 Erstelle nun ein Verzeichnis "temp" direkt im Laufwerk C: (C:\temp) und speichere dort mindestens eine Datei, z.B. ein Textfile oder ein Foto.
 
-![Bild](res/c-temp.jpg)
+![Bild](<../07 Backup/Aufgaben/res/c-temp.jpg>)
 
 Deine Aufgabe ist es dafür zu sorgen, dass der Dateiversionsverlauf auch den Inhalt des Verzeichnisses _c:\temp_ sichert. Recherchiere im Internet, wie das bewerkstelligt werden kann.
-
-[comment]:Um-Verzeichnisse-zu-sichern-die-sich.ausserhalb-deines-Benutzerprofils-befinden,-kannst-du-das-betreffende-Verzeichnis-mit-der-rechten-Maustaste-im-Explorer-anklicken-und-die-Funktion-_"In-Bibliothek-aufnehmen"_-wählen.-So-machst-du-den-Ordner-zum-Teil-einer-der-vorhandenen-oder-einer-neuen-Bibliothek.-So-wird-der-Ordner-künftig-vom-Dateiversionsverlauf-ebenfalls-gesichert.
-
 
 ## Aufgabe 3
 

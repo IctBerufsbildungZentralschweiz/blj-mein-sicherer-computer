@@ -8,7 +8,7 @@ Dateien zu löschen ist grundsätzlich ganz einfach: Du klickst eine nicht mehr 
 
 ### Für immer gelöscht? Denkste!
 
- Aufgepasst: Löschst du Dateien, gibt Windows zwar den Speicherplatz (nach Leeren des Papierkorbs) frei, löscht aber den Dateiinhalt auf dem Laufwerk nicht. Mit anderen Worten: **Windows löscht Dateien nur oberflächlich**. Das Betriebssystem setzt in der MFT (Master File Table) ein Gelöscht-Flag, das auf den "Ist gelöscht"-Zustand der betr. Datei hinweist. Dadurch sind die entsprechenden Speicherbereiche zum Überschreiben mit neuen Daten freigegeben. Welche freigegebenen Speicherbereiche das Betriebssystem beim Speichern neuer Daten füllt, liegt allerdings ausserhalb unserer Kontrolle. Und solange es noch zu keinem Überschreiben gekommen ist, können Datenrettungstools wie z.B. [Recuva](https://de.wikipedia.org/wiki/Recuva) gelöschte Inhalte problemlos auslesen und wiederherstellen.
+Aufgepasst: Löschst du Dateien, gibt Windows zwar den Speicherplatz (nach Leeren des Papierkorbs) frei, löscht aber den Dateiinhalt auf dem Laufwerk nicht. Mit anderen Worten: **Windows löscht Dateien nur oberflächlich**. Das Betriebssystem setzt in der MFT (Master File Table) ein Gelöscht-Flag, das auf den "Ist gelöscht"-Zustand der betr. Datei hinweist. Dadurch sind die entsprechenden Speicherbereiche zum Überschreiben mit neuen Daten freigegeben. Welche freigegebenen Speicherbereiche das Betriebssystem beim Speichern neuer Daten füllt, liegt allerdings ausserhalb unserer Kontrolle. Und solange es noch zu keinem Überschreiben gekommen ist, können Datenrettungstools wie z.B. [Recuva](https://de.wikipedia.org/wiki/Recuva) gelöschte Inhalte problemlos auslesen und wiederherstellen.
 
 ### Wipe
 
@@ -22,6 +22,6 @@ Beim Wipen wird eine Datei nicht einfach gelöscht, sondern der betroffene Speic
 
 Das Löschen nicht mehr benötigter Dateien geht schnell und unkompliziert mit einem passenden Programm, z.B. mit _CCleaner_, dem weltweit populärsten PC-Cleaner. Mit ihm lässt sich dein PC beschleunigen und optimieren. Darüber hinaus kannst du mit dem integrierten Tool "Drive Wiper" Daten unwiderruflich löschen.
 
-![Logo CCleaner](res/logo-ccleaner.jpg)
+![Logo CCleaner](<../08 Aufräumen/res/logo-ccleaner.jpg>)
 
-<https://www.ccleaner.com/>
+[https://www.ccleaner.com/](https://www.ccleaner.com/)

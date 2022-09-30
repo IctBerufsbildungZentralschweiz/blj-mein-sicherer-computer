@@ -1,6 +1,6 @@
 # Updates: Aufgaben
 
-![Bild](res/update-optionen.jpg)
+![Bild](<../05 Updates/Aufgaben/res/update-optionen.jpg>)
 
 ## Aufgabe
 

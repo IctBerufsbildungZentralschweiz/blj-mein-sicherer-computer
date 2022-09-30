@@ -8,11 +8,11 @@ _Abbildung: Klassischer Internet-Betrüger ;)_
 
 ## Einleitung
 
- Du wirst dich in den nächsten Stunden und Tagen mit einem wichtigen Thema beschäftigt: **Sicherheit am Computerarbeitsplatz**. Unter anderem wirst du lernen, warum du komplexe Passwörter verwenden solltest, wie man Emails verschlüsselt oder wie du deine Festplatte sauber aufräumen kannst.
+Du wirst dich in den nächsten Stunden und Tagen mit einem wichtigen Thema beschäftigen: **Sicherheit am Computerarbeitsplatz**. Unter anderem wirst du lernen, warum du komplexe Passwörter verwenden solltest, wie man Emails verschlüsselt oder wie du deine Festplatte sauber aufräumen kannst.
 
 ## Auftrag
 
-Es gibt insgesamt 9 Kapitel zu unterschiedlichen Themen: 
+Es gibt insgesamt 9 Kapitel zu unterschiedlichen Themen:
 
 1. Passwörter
 2. Internetkriminalität
@@ -24,7 +24,7 @@ Es gibt insgesamt 9 Kapitel zu unterschiedlichen Themen:
 8. Aufräumen
 9. Virtualisierung
 
-Jedes Kapitel besteht aus einem kurzen Theorie-Teil, den du durchlesen sollst sowie aus Aufgaben, die du lösen musst. Die Aufgaben findest du bei jedem Kapitel im entsprechenden Unterordner.
+Jedes Kapitel besteht aus einem kurzen Theorie-Teil, den du durchlesen sollst sowie aus Aufgaben, die du lösen sollst. Die Aufgaben findest du bei jedem Kapitel im entsprechenden Unterordner.
 
 ### Dokumentation erstellen
 
@@ -32,9 +32,9 @@ Erstelle eine Dokumentation deiner Arbeit. Ein paar Sätze zu jeder Aufgabe reic
 
 ### Mit einer Virtuellen Maschine (VM) arbeiten
 
-Für einige der Aufgabenstellungen benötigst du Software. Damit du diese Software nicht auf deinem Rechner installieren musst (weil du sie im Alltag vielleicht nicht benötigst), arbeitest du am besten mit einer virtuellen Windows-Installation. Als virtuelle Umgebung kannst Du wahlweise [VMware  Workstation Player](https://www.vmware.com/de/products/workstation-player.html) oder [Virtual Box](https://www.virtualbox.org) verwenden.
+Für einige der Aufgabenstellungen benötigst du Software. Damit du diese Software nicht auf deinem Rechner installieren musst (weil du sie im Alltag vielleicht nicht benötigst), arbeitest du am besten mit einer virtuellen Windows-Installation. Als virtuelle Umgebung kannst Du wahlweise [VMware Workstation Player](https://www.vmware.com/de/products/workstation-player.html) oder [Virtual Box](https://www.virtualbox.org) verwenden.
 
-Eine Kostenlose Windows-Kopie solltest du über die Berufsfachschule erhalten, siehe [Anleitung Download Windows 10 für Lernende](https://beruf.lu.ch/-/media/Beruf/Dokumente/schulen_berufsbildungszentren/wirtschaft_informatik_technik/ICT/Software_LE/A_Download_Windows10_Lernende_V2a.pdf?la=de-CH). 
+Eine Kostenlose Windows-Kopie solltest du über die Berufsfachschule erhalten, siehe [Anleitung Download Windows 10 für Lernende](https://beruf.lu.ch/-/media/Beruf/Dokumente/schulen\_berufsbildungszentren/wirtschaft\_informatik\_technik/ICT/Software\_LE/A\_Download\_Windows10\_Lernende\_V2a.pdf?la=de-CH).
 
 ## Hinweise
 
