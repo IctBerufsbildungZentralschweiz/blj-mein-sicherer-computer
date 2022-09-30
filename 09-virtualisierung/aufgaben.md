@@ -8,12 +8,17 @@
 
 Willst du eine Software testen, der du nicht so recht vertraust, weil sie aus einer unseriösen Quelle zu stammen scheint? Dann ist Sandboxie die Lösung für dich.
 
-Schaue dir die beiden folgenden Videos an (um zu den Videos zu gelangen, musst du dich bei der ICT-BZ Cloud [https://cloud.ict-bz-ch](https://cloud.ict-bz-ch) anmelden).
+Schaue dir die beiden folgenden Videos an:&#x20;
 
-* [Theorie-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41\_eBooks-und-Videotrainig/Videos-diverse/Sandboxie\_Theorie.mp4)
-* [Praxis-Video](https://cloud.ict-bz.ch/remote.php/webdav/BLJ/41\_eBooks-und-Videotrainig/Videos-diverse/Sandboxie\_Praxis.mp4)
+{% file src="../.gitbook/assets/Sandboxie_Theorie.mp4" %}
+Theorie Video
+{% endfile %}
 
-Installiere dann Sandboxie in deiner VM, spiele ein bisschen rum und probiere mal eine Anwendung in Sandboxie laufen zu lassen.
+{% file src="../.gitbook/assets/Sandboxie_Praxis.mp4" %}
+Praxis Video
+{% endfile %}
+
+Installiere dann Sandboxie in deiner VM (Download siehe unten), spiele ein bisschen rum und versuche eine Anwendung in Sandboxie laufen zu lassen.
 
 #### Hinweis
 
